@@ -4,6 +4,7 @@ This project is a Customer Analysis Dashboard that helps visualize sales and rev
 It focuses on how revenue and sales differ across time, location, age, gender, and discounts.
 
 Features
+
 The dashboard displays the following analyses:
 
 * Month-wise Revenue → Track how revenue changes over months.
